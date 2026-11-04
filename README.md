@@ -25,3 +25,6 @@ git-source-control-practical
 - Do not commit API tokens
 - Do not commit private keys
 - Store sensitive information securely
+
+## Feature Development
+This section demonstrates feature branch development using Git.
